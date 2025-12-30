@@ -12,3 +12,7 @@ A simple **Python console application** to manage and track monthly expenses for
 - View complete expense history
 - Clear all expense history when needed   
 - Easy-to-use menu-driven interface
+
+## Technologies used
+- Python
+- File Handling
